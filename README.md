@@ -2,9 +2,6 @@
 
 English | [中文](README_cn.md)
 
-<p align="center">
-  <img src="./sources/maxarm.png" alt="MaxArm" width="600"/>
-</p>
 
 ## Product Overview
 
@@ -16,9 +13,6 @@ Beyond standard robotic arm operations, MaxArm is designed as an open developmen
 
 Whether you're a student, maker, or educator — MaxArm gives you a structured, expandable foundation to build real robotics projects.
 
-<p align="center">
-  <img src="./sources/maxarm2.png" alt="MaxArm Overview" width="600"/>
-</p>
 
 ### The Core: A Flexible Hardware Platform Built for Makers
 
@@ -44,9 +38,6 @@ MaxArm ships with a complete library ecosystem covering hardware drivers, kinema
 
 **AI Vision Module**: Paired with the HiWonder vision module, MaxArm supports face recognition, mask detection, color tracking, garbage classification, and more — bringing machine learning inference directly into physical manipulation tasks.
 
-<p align="center">
-  <img src="./sources/maxarm3.png" alt="MaxArm AI Vision" width="600"/>
-</p>
 
 ### What You Can Build
 
@@ -61,20 +52,6 @@ A structured learning path takes you from unboxing to advanced applications:
 **PS2 Gamepad Control** — Control the arm in real time using a PS2 wireless gamepad (Python only).
 
 **Inverse Kinematics** — Coordinate-based arm positioning and path planning using the built-in IK solver.
-
-## Demo Videos
-
-### Main Tutorials
-
-- **MaxArm Getting Started Guide**: [Watch]()
-- **MaxArm Color Sorting with APDS-9960**: [Watch]()
-
-### Creative Applications
-
-- **MaxArm AI Vision: Face Recognition & Tracking**: [Watch]()
-- **MaxArm Sensor Kit: Ultrasonic Palletizing Demo**: [Watch]()
-
-> 🎬 More demo videos coming soon.
 
 ## Official Resources
 
